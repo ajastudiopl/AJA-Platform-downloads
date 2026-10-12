@@ -11,6 +11,10 @@ Stałe linki do najnowszej wersji:
 | System | Plik |
 |---|---|
 | macOS 12+ (Apple Silicon i Intel) | [AJA-Platform-macOS.dmg](https://github.com/ajastudiopl/AJA-Platform-downloads/releases/latest/download/AJA-Platform-macOS.dmg) |
+| Linux x64 — wersja testowa | [AJA-Platform-Linux-x64.AppImage](https://github.com/ajastudiopl/AJA-Platform-downloads/releases/latest/download/AJA-Platform-Linux-x64.AppImage) |
+| Linux x64 (Ubuntu, Debian) — wersja testowa | [AJA-Platform-Linux-x64.deb](https://github.com/ajastudiopl/AJA-Platform-downloads/releases/latest/download/AJA-Platform-Linux-x64.deb) |
+| Linux ARM64 — wersja testowa | [AJA-Platform-Linux-arm64.AppImage](https://github.com/ajastudiopl/AJA-Platform-downloads/releases/latest/download/AJA-Platform-Linux-arm64.AppImage) |
+| Linux ARM64 (Ubuntu, Debian) — wersja testowa | [AJA-Platform-Linux-arm64.deb](https://github.com/ajastudiopl/AJA-Platform-downloads/releases/latest/download/AJA-Platform-Linux-arm64.deb) |
 
 Ta sama instalacja służy do wersji próbnej (14 dni, bez rejestracji) i do pracy z kupioną licencją —
 klucz wpisujesz w aplikacji: LICENCJA → AKTYWUJ. Licencje: [ajastudio.pl/sklep](https://ajastudio.pl/sklep/).
